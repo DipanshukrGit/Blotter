@@ -8,7 +8,7 @@
 
 **Blotter** is a **modern, full-stack blogging platform** built with the **MERN stack**, offering a secure, responsive, and interactive experience to create, manage, and share blogs.  
 
-----
+---
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS, React Router, React Toastify  
